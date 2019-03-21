@@ -15,4 +15,4 @@ Live Site: https://fortigate-test-harman.netlify.com/
 <code> $ npm intsall </code> <br>
 <code> $ npm start </code> <br>
 
-The project would run on localhost:3000 <br>
+The project would run on <a href="http://localhost:3000">http://localhost:3000 </a> <br>
