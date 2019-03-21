@@ -12,7 +12,7 @@ Live Site: https://fortigate-test-harman.netlify.com/
 ## Instructions to run the project
 <code> $ git clone https://github.com/harmanparihar/fortinet-test.git </code> <br>
 <code> $ cd fortinet-test </code> <br>
-<code> $ npm intsall </code> <br>
+<code> $ npm install </code> <br>
 <code> $ npm start </code> <br>
 
 The project would run on <a href="http://localhost:3000">http://localhost:3000 </a> <br>
