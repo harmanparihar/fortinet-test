@@ -139,7 +139,6 @@ getSignatures(){
 render() {
     return (
         <div className="home">
-            
             <Search searchSignatures={this.searchSignatures.bind(this)} resetSignatures={this.resetSignatures.bind(this)}/>
             <div className="filter_parent">
                 <Filter method={2} val={this.state.risk_val} filter="Risk" searchSignatures={this.searchSignatures.bind(this)}  resetSignatures={this.resetSignatures.bind(this)}/>

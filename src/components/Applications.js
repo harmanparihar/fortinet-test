@@ -22,7 +22,7 @@ class Applications extends Component {
             }) : null )
         return (
             <main className="application_list">
-                        {mapped_products}
+                {mapped_products}
             </main>
         );
     }
