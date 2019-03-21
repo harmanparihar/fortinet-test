@@ -10,9 +10,9 @@ Live Site: https://fortigate-test-harman.netlify.com/
   <li>Filter applications by Popularity</li><br>
   
 ## Instructions to run the project
-<code> $ git clone https://github.com/harmanparihar/fortinet-test.git </code>
-<code> $ cd fortinet-test </code>
-<code> $ npm intsall </code>
+<code> $ git clone https://github.com/harmanparihar/fortinet-test.git </code> <br>
+<code> $ cd fortinet-test </code> <br>
+<code> $ npm intsall </code> <br>
 <code> $ npm start </code> <br>
 
 The project would run on localhost:3000 <br>
